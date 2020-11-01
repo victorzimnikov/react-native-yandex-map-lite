@@ -1,0 +1,1 @@
+# react-native-yandex-map-lite
